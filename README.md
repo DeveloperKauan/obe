@@ -161,5 +161,5 @@ git push -u origin main
 
 ## 📚 Créditos
 
-Desenvolvido por [Seu Nome] para a **Olimpíada Brasileira de Estatística - 2025**  
+Desenvolvido por Kauan Yuri para a **Olimpíada Brasileira de Estatística - 2025**  
 Design inspirado por produtos como Asana, Notion e interfaces educacionais modernas.
